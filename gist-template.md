@@ -46,23 +46,23 @@ Regular expressions may have flags that affect the search.
 
 ### Grouping and Capturing
 
-
+Capturing groups are a way to treat multiple characters as a single unit. They are created by placing the characters to be grouped inside a set of parentheses.
 
 ### Bracket Expressions
 
-
+Bracket expressions can be used to match a single character or collating element.
 
 ### Greedy and Lazy Match
 
-
+There are two operation modes for quantifiers.
 
 ### Boundaries
 
-
+A word boundary is a position between a non word character, or at the beginning or end of a string if it begins or ends with a word character.
 
 ### Back-references
 
-
+Backreferences match the same text already matched by a group.
 
 ### Look-ahead and Look-behind
 
